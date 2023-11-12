@@ -2,7 +2,7 @@
 
 > Hello ae mình là [phamvantu.com](http://phamvantu.com/) đây. Cái này mình test cái thiệp noel cho vui nha :D
 
-<a href="http://phamvantu.co/noel-tupv" target="_blank">Xem demo thử 😆</a>
+<a href="http://phamvantu.com/noel-tupv" target="_blank">Xem demo thử 😆</a>
 
 ## Cài Đặt
 
