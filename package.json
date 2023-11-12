@@ -1,0 +1,19 @@
+{
+  "name": "noel-tupv",
+  "version": "1.0.2",
+  "description": "Mình là phamvantu.com đây. Cái này mình test cái thiệp noel cho vui nha :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamtu613/noel-tupv"
+  },
+  "keywords": [],
+  "author": "Pham Van Tu",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
